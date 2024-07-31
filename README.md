@@ -1,8 +1,11 @@
-<p>I'm an AI & Electrical Engineer. I have gained knowledge and experience in control theory, robotics, and embedded systems, and machine learning and deep learning.</p>
+<p>I'm an AI & Electrical Engineer. I have gained knowledge and experience in control theory, robotics, embedded systems, machine learning, and deep learning.</p>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ameer-alwadiya&label=Profile%20views&color=0e75b6&style=flat" alt="ameer-alwadiya" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ameer-alwadiya&label=Profile%20views&color=0e75b6&style=flat" alt="ameer-alwadiya" />
+</p>
 
- <br/>
+<br/>
+
 ### Languages and Tools:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -22,5 +25,5 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
-<br />
-<br />
+<br/>
+<br/>
