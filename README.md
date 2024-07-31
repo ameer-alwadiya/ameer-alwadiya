@@ -3,7 +3,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ameer-alwadiya&label=Profile%20views&color=0e75b6&style=flat" alt="ameer-alwadiya" />
 </p>
-
 <br/>
 
 ### Languages and Tools:
