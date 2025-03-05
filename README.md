@@ -2,7 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=ameer-alwadiya&label=Profile%20views&color=0e75b6&style=flat" alt="ameer-alwadiya" />
 </p>
 <br/>
-
 ### Languages and Tools:
 ![C](https://img.shields.io/badge/C-C19A6B?style=for-the-badge&logo=c&logoColor=22150C)
 ![C++](https://img.shields.io/badge/C++-C19A6B?style=for-the-badge&logo=cplusplus&logoColor=22150C)
